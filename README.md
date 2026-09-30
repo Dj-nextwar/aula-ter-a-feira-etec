@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Atividade Bootstrap</title>
- 
+ <!-- tentiva git djalma -->
 <!-- Bootstrap 5 -->
 <link href="jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
 </head>
@@ -25,11 +25,11 @@
 </thead>
 <tbody>
 <tr>
-<td>João</td>
+<td>Djalma</td>
 <td>ADS</td>
 </tr>
 <tr>
-<td>Maria</td>
+<td>fulana</td>
 <td>SI</td>
 </tr>
 </tbody>
